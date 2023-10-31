@@ -1,0 +1,15 @@
+
+.flex-item {
+    width: 100px;
+    height: 50px;
+    background-color: bisque;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+.flex-container {
+    display: flex;
+    height: 500px;
+    flex-direction: column-reverse;
+    background-color: aquamarine;
+}
